@@ -1,0 +1,187 @@
+*{
+    font-family: Roboto, sans-serif;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+#header{
+    background: rgba(255, 255, 255, 0.92);
+    height:50px;
+}
+
+
+.header-nav-link:hover{
+    background: #ecfbdf;
+}
+
+.jumbotron{
+    background-color:#ecfbdf;
+    padding: 90px 30px 0 30px;
+    margin: 50px 0 0;
+    text-align:center;
+}
+
+#hero-text{
+    color:#2d2d2d;
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+}
+
+.btn-custom{
+    background: #8ccb5f;
+    color:white;
+    font-size:1.15em;
+    text-align: left;
+}
+
+.btn-custom:hover{
+    background:#81b25e;
+    color:white;
+}
+
+.btn-transparent{
+    text-align: center;
+    background:transparent;
+    border: 1px solid #82b959;
+    color:#6c9e46;
+    padding:16px 25px;
+    font-size: 14px;
+}
+
+.btn-transparent:hover{
+    background-color:#ceeeb5;
+    color:#6c9e46;
+}
+
+.btn-big{
+    padding:10px;
+}
+
+.btn-rounded{
+    border-radius: 3px;
+}
+
+#download p{
+    margin-top:2px;
+    margin-bottom: 45px;
+}
+
+#other-downloads{
+    font-size:12px;
+    color: #8ccb5f;
+}
+
+#other-downloads:hover{
+    text-decoration: none;
+    color:#81b25e;
+}
+
+#sub-info-wrapper{
+    padding: 60px;
+}
+
+.intro p{
+    color:#4d4d4d;
+    font-size:27px;
+    font-weight: 300;
+    line-height: 42px;
+    margin:0 auto 80px;
+}
+
+
+.sub-intro p{
+    font-size:18px;
+}
+
+.sub-intro h2, p, .last-row h2, p{
+    font-weight:300;
+}
+
+.sub-intro p a{
+    color: #8ccb5f;
+}
+
+.sub-intro p a:hover{
+    color: #81b25e;
+}
+
+#heart-community{
+    color: #8ccb5f;
+}
+
+
+.last-row p{
+    color:#8a8b8c;
+}
+
+
+kbd{
+    background-color:#fff;
+    border-color: #bcbcbc;
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 1px;
+    color:#000;
+    margin:0;
+    font-size: 0.7em;
+    padding: 0.025em 0.35em 0em;
+}
+
+#content-wrapper{
+    background-color:#aae182;
+    padding:60px;
+}
+
+#row-title{
+    font-weight:300;
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+
+#row-sub-title{
+    color:#5a5a5c;
+    font-weight:400;
+    font-size:16px;
+    line-height: 1.5;
+    margin:0;
+}
+
+#row-sub-title a{
+    color:#6b9d43;
+}
+
+#footer-wrapper{
+    background-color:#535c4b;
+    padding:60px 60px 90px 60px;
+}
+
+#footer{
+    padding-bottom: 90px;
+    padding-top:90px;
+}
+
+#footer ul{
+    list-style:square;
+}
+
+#footer a{
+    color:#7fbf46;
+}
+
+#footer a:hover{
+    color:#71ab3f;
+}
+
+#footer h5{
+    color:#fff;
+    font-size:14px;
+    line-height:24px;
+}
+
+#about p{
+    color:#a6aab2;
+    font: 400 13px / 24px source-sans-pro, sans-serif;
+    text-align:center;
+}
